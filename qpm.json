@@ -5,7 +5,7 @@
     "name": "PythonLib",
     "id": "pythonlib",
     "version": "2.0.0",
-    "url": "https://github.com/darknight1050/PythonLib",
+    "url": "https://github.com/RockThePandora/PythonLib",
     "additionalData": {
       "overrideSoName": "libpythonlib.so"
     }
