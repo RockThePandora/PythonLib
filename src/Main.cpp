@@ -44,7 +44,7 @@ nativelib_stdWrite(PyObject *self, PyObject *args)
 }
 
 static PyMethodDef NativeLibMethods[] = {
-    //{"std_write", nativelib_std_write, METH_VARARGS, ""},
+    {"std_write", nativelib_std_write, METH_VARARGS, ""},
     {NULL, NULL, 0, NULL} 
 };
 
