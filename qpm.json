@@ -4,7 +4,7 @@
   "info": {
     "name": "PythonLib",
     "id": "pythonlib",
-    "version": "0.3.0",
+    "version": "0.2.0",
     "url": "https://github.com/RockThePandora/PythonLib",
     "additionalData": {
       "overrideSoName": "libpythonlib.so"
