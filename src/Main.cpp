@@ -43,9 +43,9 @@ nativelib_stdWrite(PyObject *self, PyObject *args)
     Py_RETURN_NONE;
 }
 
-static PyMethodDef NativeLibMethods[] = {
+//static PyMethodDef NativeLibMethods[] = {
     //{"std_write", nativelib_std_write, METH_VARARGS, ""},
-    {NULL, NULL, 0, NULL} 
+    //{NULL, NULL, 0, NULL} 
 };
 
 static struct PyModuleDef NativeLibModule = {
